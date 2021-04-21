@@ -1,0 +1,2 @@
+1|Escuela|Escuela de arte digital|50000|6|escuelaArte.jpg|01/12/2020 0:00:00|45652024|Sin experiencia
+2|Gimnasio|Gimnasio enfocado al deporte aerobico|35000|6|gimnasio.jpg|01/12/2020 0:00:00|45652023|Sin experiencia

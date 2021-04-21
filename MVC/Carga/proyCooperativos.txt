@@ -1,0 +1,2 @@
+3|Parking|Parking en Pocitos|100000|6|parking.jpg|15/11/2020 0:00:00|45652022|3
+4|Verduleria|Verduleria en Cordon|25000|6|verduleria.jpg|05/10/2020 0:00:00|45652021|2
